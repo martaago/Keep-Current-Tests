@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cadastrando um novo curso, na página de cursos.</description>
+   <name>Cadastro de curso</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5dfdb663-84b5-4942-bb61-1ce50b83f4de</testCaseGuid>
+</TestCaseEntity>
